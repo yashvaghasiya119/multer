@@ -30,3 +30,7 @@ app.post("/upload" , upload.single("profileimage") , (req,res)=>{
 
 
 app.listen(8000)
+node_modules
+*.env
+.env
+.env*
